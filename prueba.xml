@@ -1,1 +1,26 @@
-<xml>Contenido de prueba</xml>
+<?xml version = "1.0" encoding = "UTF-8">
+<RSS version ="2.0">
+    <channel>
+        <tittle>Titulo del canal</tittle>
+        <link>https://www.eugenio.com</link>
+        <description>Descripicón del canal</description>
+        <language>es</language>
+        <item>la noticia del rss</item>
+        <link>https://www.eugenio.com</link>
+        <description>Descripción de la noticia, texto</description>
+        <pubDate>14 MAY 2025 12:00:00 </pubDate>
+    </item>
+    <item>
+        <tittle>Titulo del canal 2</tittle>
+        <link>https://www.eugenio.com</link>
+        <description>Descripicón del canal</description>
+        <language>es</language>
+        <item>la noticia del rss</item>
+        <link>https://www.eugenio.com</link>
+        <description>Descripción de la noticia, texto</description>
+        <pubDate>14 MAY 2025 12:00:00 </pubDate>
+    </item>
+
+    </channel>
+
+</rss>
